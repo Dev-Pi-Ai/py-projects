@@ -3,7 +3,7 @@ import os
 
 # Main loop
 while True:
-    command = input("james@python~$: ")
+    command = input("py@projects~$: ")
 
     if 'plugins' in command:
         os.system("cd plugins\nls")
