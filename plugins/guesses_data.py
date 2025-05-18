@@ -1,9 +1,10 @@
-words = [ "python", "c++", "codehs", "bonneville", "history", "math",
-"algebra", "science", "atoms", "chemistry", "physics", "english",
-"writing", "work", "try", "build", "break", "destroy", "create", "load",
-"install", "remove", "add", "nathan", "great", "great", "good", "launch",
-"uninstall", "crash", "speed", "acceleration", "attack", "defend", "hack",
-"modify", "programming", "coding", "binary", "hexadecimal", "latin", "trick",
+words = [
+"python", "c++", "codehs", "bonneville", "history", "math", "algebra",
+"science", "atoms", "chemistry", "physics", "english", "writing",
+"work", "try", "build", "break", "destroy", "create", "load","install",
+"remove", "add", "nathan", "great", "great", "good", "launch", "uninstall",
+"crash", "speed", "acceleration", "attack", "defend", "hack", "modify",
+"programming", "coding", "binary", "hexadecimal", "latin", "trick",
 "treat", "bitter", "sweet", "eat", "feet", "uninstall", "halloween", "track",
 "chistmas", "nuclear", "fision", "fusion", "reactor", "gamma", "beta", "alpha",
 "radiation", "read", "geometry", "calculus", "functions", "variables", "compile",
@@ -25,5 +26,7 @@ words = [ "python", "c++", "codehs", "bonneville", "history", "math",
 "pizza", "hamburger", "bread", "shovel", "like", "love", "beat", "win", "lose"
 "life", "death", "die", "live", "breath", "word", "lock", "pick", "key", "shoe",
 "boot", "reboot", "start", "end", "restart", "docker", "java", "javascript", "cpu",
-"gpu", "motherboard"
+"gpu", "motherboard", "revision", "apple", "house", "james", "feed", "seed",
+"develop", "litter", "trash", "iterate", "compound", "realilty", "dolphin",
+"gecko", "mips", "bios", "time", "space", "core", "theme", "stone", "strength"
 ]
