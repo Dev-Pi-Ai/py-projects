@@ -19,6 +19,15 @@ while True:
     
     elif 'ls' in command:
         os.system("ls")
+
+    elif 'quit' in command:
+        break
+
+    elif 'shutdown' in command:
+        os.system("shutdown now")
+
+    elif 'restart' in command:
+        os.system("restart")
     
     else:
         os.system(f"cd plugins\npython3 {command}.py")
