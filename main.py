@@ -45,7 +45,7 @@ while True:
         4. Advanced Calculator: a much more complicated calculator capible of solving equations with multiple opperators with PEMDAS.
         Usage: advanced_calculator (enter an equation (only use ONE pair of paranthesis per equation or you will have a error)
         quit: to exit
-        clear: to clear the calculator
+        clear: to clear the calculator""")
     
     else:
         os.system(f"cd plugins\npython3 {command}.py")
