@@ -45,7 +45,11 @@ while True:
         4. Advanced Calculator: a much more complicated calculator capible of solving equations with multiple opperators with PEMDAS.
         Usage: advanced_calculator (enter an equation (only use ONE pair of paranthesis per equation or you will have a error)
         quit: to exit
-        clear: to clear the calculator""")
+        clear: to clear the calculator
+        
+        5. Text Replacer: simple program to replace specified characters or words with other specified characters or words.
+        Usage: replace <your input file> <you output file> <character or word to replace> <replacing word of character>
+    """)
     
     else:
         os.system(f"cd plugins\npython3 {command}.py")
